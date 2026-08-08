@@ -275,10 +275,20 @@ Desktop applications focused on OOP, CRUD, database connectivity, and practical 
 </div>
 
 ---
-
 <div align="center">
 
-## `09 // CONNECT`
+## `9 // CURRENTLY LISTENING`
+
+<br>
+
+<img src="https://spotify-github-readme.vercel.app/api/spotify" />
+
+</div>
+
+---
+<div align="center">
+
+## `10 // CONNECT`
 
 <br>
 
