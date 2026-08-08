@@ -149,7 +149,7 @@ CRUD • Stock Management • Transactions • Reports • Dashboard
 
 ### 🐍 SNAKE ATTACK
 
-<img src="https://raw.githubusercontent.com/ahmadfas213-cell/ahmadfas213-cell/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/ahmadfas213-cell/ahmadfas213-cell/main/dist/github-contribution-grid-snake-dark.svg"/>
 
 </div>
 
