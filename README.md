@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2500&pause=800&color=22D3EE&center=true&vCenter=true&width=750&lines=console.log(%22Hello%2C+World!%22);Building+things+that+actually+work.;Java+%7C+Web+%7C+Database;Student+%7C+Developer+%7C+Builder"/>
 
-<br>
+<br><br>
 
 <a href="https://github.com/ahmadfas213-cell">
 <img src="https://img.shields.io/badge/GITHUB-050505?style=for-the-badge&logo=github&logoColor=white"/>
@@ -14,17 +14,17 @@
 <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-<a href="https://www.facebook.com/">
-<img src="https://img.shields.io/badge/FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-</a>
-
 <a href="https://www.tiktok.com/@nonoo1s">
 <img src="https://img.shields.io/badge/TIKTOK-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
 </a>
 
+<a href="mailto:ahmadfas213@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=ahmadfas213-cell&style=for-the-badge&color=7c3aed&label=VISITORS"/>
+<img src="https://komarev.com/ghpvc/?username=ahmadfas213-cell&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS"/>
 
 </div>
 
@@ -32,7 +32,7 @@
 
 <div align="center">
 
-### `> whoami`
+## `> WHOAMI`
 
 </div>
 
@@ -119,7 +119,7 @@ Community-oriented web project for Informatics students.
 <br><br>
 
 <a href="https://sixformatics-hash.github.io/sixformatics/">
-<img src="https://img.shields.io/badge/OPEN_PROJECT-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OPEN_PROJECT-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
 </div>
@@ -148,6 +148,45 @@ CRUD • Stock Management • Transactions • Reports • Dashboard
 </td>
 
 </tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h3 align="center">🌐 WEB PROJECTS</h3>
+
+<div align="center">
+
+Web experiments and portfolio projects focused on frontend development, responsive layouts, and interactive interfaces.
+
+<br><br>
+
+<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+
+</div>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3 align="center">☕ JAVA PROJECTS</h3>
+
+<div align="center">
+
+Desktop applications focused on OOP, CRUD, database connectivity, and practical software development.
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+
+</div>
+
+</td>
+
+</tr>
 </table>
 
 ---
@@ -157,6 +196,8 @@ CRUD • Stock Management • Transactions • Reports • Dashboard
 ## `04 // CONTRIBUTION MODE`
 
 ### 🐍 SNAKE ATTACK
+
+<br>
 
 <img src="https://raw.githubusercontent.com/ahmadfas213-cell/ahmadfas213-cell/main/dist/github-contribution-grid-snake-dark.svg"/>
 
@@ -170,13 +211,13 @@ CRUD • Stock Management • Transactions • Reports • Dashboard
 
 <br>
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=ahmadfas213-cell&show_icons=true&hide_border=true&bg_color=050505&title_color=A78BFA&icon_color=22D3EE&text_color=E5E7EB&count_private=true&rank_icon=github"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=ahmadfas213-cell&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
 
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadfas213-cell&layout=compact&hide_border=true&bg_color=050505&title_color=A78BFA&text_color=E5E7EB"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadfas213-cell&layout=compact&theme=tokyonight&hide_border=true"/>
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=ahmadfas213-cell&hide_border=true&background=050505&ring=7C3AED&fire=22D3EE&currStreakLabel=A78BFA&sideLabels=E5E7EB&dates=71717A"/>
+<img src="https://streak-stats.demolab.com?user=ahmadfas213-cell&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -249,18 +290,13 @@ CRUD • Stock Management • Transactions • Reports • Dashboard
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-<a href="https://www.facebook.com/Nono0o">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-</a>
-
 <a href="https://www.tiktok.com/@nonoo1s">
 <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
 </a>
 
 <a href="mailto:ahmadfas213@gmail.com">
-<img src="https://img.shields.io/badge/Email-ahmadfas213%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
 
 <br><br>
 
