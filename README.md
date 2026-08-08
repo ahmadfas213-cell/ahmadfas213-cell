@@ -9,8 +9,17 @@
 <a href="https://github.com/ahmadfas213-cell">
 <img src="https://img.shields.io/badge/GITHUB-050505?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<a href="https://sixformatics-hash.github.io/sixformatics/">
-<img src="https://img.shields.io/badge/PORTFOLIO-312E81?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+
+<a href="https://www.instagram.com/ahmdftrhas_/">
+<img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://www.facebook.com/">
+<img src="https://img.shields.io/badge/FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+
+<a href="https://www.tiktok.com/@nonoo1s">
+<img src="https://img.shields.io/badge/TIKTOK-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
 </a>
 
 <br><br>
@@ -153,8 +162,6 @@ CRUD • Stock Management • Transactions • Reports • Dashboard
 
 </div>
 
-> If the snake doesn't appear immediately, the contribution workflow needs to be added to the profile repository. GitHub, naturally, refuses to make anything fun effortless.
-
 ---
 
 <div align="center">
@@ -238,8 +245,16 @@ CRUD • Stock Management • Transactions • Reports • Dashboard
 <img src="https://img.shields.io/badge/GitHub-050505?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://sixformatics-hash.github.io/sixformatics/">
-<img src="https://img.shields.io/badge/Portfolio-312E81?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<a href="https://www.instagram.com/ahmdftrhas_/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://www.facebook.com/">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+
+<a href="https://www.tiktok.com/@nonoo1s">
+<img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
 </a>
 
 <br><br>
