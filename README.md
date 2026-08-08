@@ -249,7 +249,7 @@ CRUD • Stock Management • Transactions • Reports • Dashboard
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-<a href="https://www.facebook.com/">
+<a href="https://www.facebook.com/Nono0o">
 <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
 </a>
 
