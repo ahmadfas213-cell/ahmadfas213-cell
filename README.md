@@ -257,6 +257,11 @@ CRUD • Stock Management • Transactions • Reports • Dashboard
 <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
 </a>
 
+<a href="mailto:ahmadfas213@gmail.com">
+<img src="https://img.shields.io/badge/Email-ahmadfas213%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+
 <br><br>
 
 `BUILD SOMETHING WORTH REMEMBERING.`
