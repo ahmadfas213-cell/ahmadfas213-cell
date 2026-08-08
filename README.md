@@ -1,100 +1,114 @@
 <div align="center">
 
-# Hi, I'm Nono 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=NONO&fontSize=80&fontColor=ffffff&fontAlignY=40&desc=INFORMATICS%20ENGINEERING%20%7C%20DEVELOPER&descAlignY=62&descSize=16&color=0:09090b,45:312e81,75:7c3aed,100:06b6d4"/>
 
-### Informatics Engineering Student • Developer • Builder
+<br>
 
-<p>
-  <a href="https://github.com/ahmadfas213-cell">
-    <img src="https://img.shields.io/badge/GitHub-ahmadfas213--cell-181717?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-  <a href="https://github.com/ahmadfas213-cell">
-    <img src="https://komarev.com/ghpvc/?username=ahmadfas213-cell&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS">
-  </a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=700&lines=Building+things+with+code.;Learning+through+real+projects.;Java+%7C+Web+%7C+Database;Turning+ideas+into+working+software."/>
 
-<p>
-  <i>Learning. Building. Breaking. Fixing. Repeating.</i>
-</p>
+<br><br>
+
+<a href="https://github.com/ahmadfas213-cell">
+<img src="https://img.shields.io/badge/GITHUB-09090B?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://sixformatics-hash.github.io/sixformatics/">
+<img src="https://img.shields.io/badge/PORTFOLIO-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=ahmadfas213-cell&style=flat-square&color=7c3aed&label=PROFILE+VIEWS"/>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+<div align="center">
 
-I'm an Informatics Engineering student who enjoys building things with code and learning through real projects.
+## `WHO AM I?`
 
-Currently focused on:
+</div>
 
-* 💻 Software & Web Development
-* ☕ Java & Object-Oriented Programming
-* 🗄️ Database & SQL
-* 🌐 HTML, CSS & JavaScript
-* 🔧 Git & GitHub
-* 📚 Continuously improving my development skills
+I'm Nono, an Informatics Engineering student interested in software development, web development, Java, and databases.
 
-I prefer learning by actually building things rather than just collecting tutorials.
+I learn by building. Most of my projects start with a simple idea, a questionable amount of debugging, and eventually something that actually works.
+
+Currently exploring how to build cleaner, more useful, and more maintainable software.
 
 ---
 
-## ⚡ Tech Stack
+<div align="center">
 
-### Languages
+## `TECH STACK`
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,html,css,js" />
-</p>
+<br>
 
-### Database & Tools
+<img src="https://skillicons.dev/icons?i=java,html,css,js,mysql,git,github,vscode,idea&theme=dark" />
 
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,idea" />
-</p>
+<br><br>
+
+`JAVA` `HTML` `CSS` `JAVASCRIPT` `MYSQL` `GIT` `GITHUB`
+
+</div>
 
 ---
 
-## 🚀 Featured Projects
+<div align="center">
+
+## `SELECTED WORK`
+
+</div>
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### SixFormatics
+### 🟣 SixFormatics
 
-A web-based project created for the Informatics community.
+Community-oriented web project created for Informatics students.
+
+Tech:
+`HTML` `CSS` `JavaScript`
 
 <a href="https://sixformatics-hash.github.io/sixformatics/">
-View Project →
+<img src="https://img.shields.io/badge/VIEW_PROJECT-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### Pergudangan
+### 🔵 Pergudangan
 
-Inventory and warehouse management system built with Java, Swing and MySQL.
+Desktop inventory management system built around CRUD operations, stock management, transactions, reports, and dashboard data.
 
-Features include CRUD operations, stock management, transaction reports and dashboard data.
+Tech:
+`Java` `Swing` `MySQL`
 
 </td>
 </tr>
 
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### Web Projects
+### ⚫ Web Experiments
 
-Various HTML, CSS and JavaScript projects created while learning and experimenting with web development.
+Collection of web projects created while exploring layouts, responsive design, interactions, and frontend development.
+
+Tech:
+`HTML` `CSS` `JavaScript`
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### Java Projects
+### 🟣 Java Applications
 
-Java projects focused on OOP, CRUD, database connectivity and desktop application development.
+Desktop applications focused on OOP, CRUD architecture, database connectivity, and practical software development.
+
+Tech:
+`Java` `OOP` `MySQL`
 
 </td>
 </tr>
@@ -102,101 +116,101 @@ Java projects focused on OOP, CRUD, database connectivity and desktop applicatio
 
 ---
 
-## 🧠 Currently Learning
+<div align="center">
 
-```text
-Java OOP              ███████████████░░░░░
-Database & SQL        ██████████████░░░░░░
-Web Development       █████████████░░░░░░░
-Git & GitHub           ███████████████░░░░░
-Software Development   ████████████░░░░░░░░
-```
+## `CURRENTLY LEARNING`
 
-Still learning. Still making stupid bugs. Still fixing them.
+</div>
+
+<table>
+<tr>
+<td>☕ Java & OOP</td>
+<td>🗄️ Database Architecture</td>
+</tr>
+<tr>
+<td>🌐 Web Development</td>
+<td>🔧 Git & GitHub</td>
+</tr>
+<tr>
+<td>🏗️ Software Architecture</td>
+<td>📊 Data & Reporting</td>
+</tr>
+</table>
 
 ---
 
-## 📊 GitHub Stats
-
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ahmadfas213-cell&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadfas213-cell&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
+## `GITHUB ANALYTICS`
 
 <br>
 
-<div align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ahmadfas213-cell&show_icons=true&hide_border=true&bg_color=09090B&title_color=A78BFA&icon_color=22D3EE&text_color=E5E7EB&count_private=true"/>
 
-<img src="https://streak-stats.demolab.com?user=ahmadfas213-cell&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadfas213-cell&layout=compact&hide_border=true&bg_color=09090B&title_color=A78BFA&text_color=E5E7EB"/>
 
-</div>
+<br><br>
 
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-[![Nono's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ahmadfas213-cell\&theme=tokyo-night\&hide_border=true)](https://github.com/ahmadfas213-cell)
+<img src="https://streak-stats.demolab.com?user=ahmadfas213-cell&hide_border=true&background=09090B&ring=7C3AED&fire=22D3EE&currStreakLabel=A78BFA&sideLabels=E5E7EB&dates=71717A"/>
 
 </div>
 
 ---
 
-## 🎯 Goals
+<div align="center">
 
-```text
-[x] Start coding
-[x] Learn Git & GitHub
-[x] Build real projects
-[x] Learn Java OOP
-[x] Work with databases
-[ ] Build bigger applications
-[ ] Improve software architecture
-[ ] Contribute to open source
-[ ] Become a better developer
-```
+## `CONTRIBUTION ACTIVITY`
+
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmadfas213-cell&bg_color=09090B&color=A78BFA&line=7C3AED&point=22D3EE&area=true&hide_border=true"/>
+
+</div>
 
 ---
-
-## 🛠️ What I Like Building
-
-```text
-┌──────────────────────────────────────────┐
-│                                          │
-│   Web Applications                       │
-│   Desktop Applications                   │
-│   CRUD Systems                           │
-│   Database Applications                  │
-│   Portfolio Websites                     │
-│   Experimental Projects                  │
-│                                          │
-└──────────────────────────────────────────┘
-```
-
----
-
-## 🌐 Connect With Me
 
 <div align="center">
+
+## `THE ROAD AHEAD`
+
+```text
+BUILD
+  ↓
+LEARN
+  ↓
+BREAK
+  ↓
+DEBUG
+  ↓
+IMPROVE
+  ↓
+BUILD AGAIN
+```
+
+<br>
+
+`Currently becoming better at turning ideas into software.`
+
+</div>
+
+---
+
+<div align="center">
+
+## `LET'S CONNECT`
+
+<br>
 
 <a href="https://github.com/ahmadfas213-cell">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-09090B?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-</div>
+<a href="https://sixformatics-hash.github.io/sixformatics/">
+<img src="https://img.shields.io/badge/Portfolio-312E81?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
 
----
+<br><br>
 
-<div align="center">
-
-### `while(alive) { keepBuilding(); }`
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:06b6d4,35:7c3aed,70:312e81,100:09090b"/>
 
 </div>
