@@ -275,13 +275,14 @@ Desktop applications focused on OOP, CRUD, database connectivity, and practical 
 </div>
 
 ---
+
 <div align="center">
 
-## `9 // CURRENTLY LISTENING`
+## `09 // DEV QUOTE`
 
 <br>
 
-<img src="https://spotify-github-readme.vercel.app/api/spotify" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 
 </div>
 
