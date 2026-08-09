@@ -1,30 +1,36 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&section=header&text=AHMAD%20FITROH&fontSize=52&fontColor=F5E6B3&fontAlignY=38&desc=SOFTWARE%20DEVELOPER%20%2F%2F%20INFORMATICS%20ENGINEERING&descSize=14&descAlignY=62&color=0:030303,25:0B0B0B,50:171717,72:3F2A14,88:8A641C,100:D4AF37"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&section=header&text=AHMAD%20FITROH&fontSize=52&fontColor=E8EEF7&fontAlignY=38&desc=SOFTWARE%20DEVELOPER%20%2F%2F%20INFORMATICS%20ENGINEERING&descSize=14&descAlignY=62&color=0:020617,35:0B1120,65:172554,85:1D4ED8,100:38BDF8"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2800&pause=900&color=D4AF37&center=true&vCenter=true&width=780&lines=Frontend+%2B+Backend+Developer;Java+%7C+JavaScript+%7C+MySQL;Designing+interfaces.+Building+systems.;LEARN+%E2%86%92+BUILD+%E2%86%92+BREAK+%E2%86%92+IMPROVE"/>
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=720&lines=Frontend+%2B+Backend+Developer;Java+%7C+JavaScript+%7C+MySQL;Building+systems+one+commit+at+a+time."/>
 
 <br><br>
 
 <a href="https://github.com/ahmadfas213-cell">
-<img src="https://img.shields.io/badge/GITHUB-050505?style=for-the-badge&logo=github&logoColor=D4AF37"/>
+<img src="https://img.shields.io/badge/GITHUB-020617?style=for-the-badge&logo=github&logoColor=38BDF8"/>
 </a>
+
 <a href="https://www.instagram.com/ahmdftrhas_/">
-<img src="https://img.shields.io/badge/INSTAGRAM-050505?style=for-the-badge&logo=instagram&logoColor=D4AF37"/>
+<img src="https://img.shields.io/badge/INSTAGRAM-020617?style=for-the-badge&logo=instagram&logoColor=38BDF8"/>
 </a>
+
 <a href="https://www.facebook.com/Nono0o">
-<img src="https://img.shields.io/badge/FACEBOOK-050505?style=for-the-badge&logo=facebook&logoColor=D4AF37"/>
+<img src="https://img.shields.io/badge/FACEBOOK-020617?style=for-the-badge&logo=facebook&logoColor=38BDF8"/>
 </a>
+
 <a href="https://www.tiktok.com/@nonoo1s">
-<img src="https://img.shields.io/badge/TIKTOK-050505?style=for-the-badge&logo=tiktok&logoColor=D4AF37"/>
+<img src="https://img.shields.io/badge/TIKTOK-020617?style=for-the-badge&logo=tiktok&logoColor=38BDF8"/>
 </a>
+
 <a href="mailto:ahmadfas213@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-050505?style=for-the-badge&logo=gmail&logoColor=D4AF37"/>
+<img src="https://img.shields.io/badge/EMAIL-020617?style=for-the-badge&logo=gmail&logoColor=38BDF8"/>
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=ahmadfas213-cell&style=flat-square&color=D4AF37&label=PROFILE+VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=ahmadfas213-cell&style=flat-square&color=38BDF8&label=PROFILE+VIEWS"/>
 
 </div>
 
@@ -33,32 +39,49 @@
 <table>
 <tr>
 
-<td width="58%" valign="top">
+<td width="55%" valign="top">
 
-## `AHMAD / NONO`
+## `> WHOAMI`
 
 ```text
-┌─────────────────────────────────────────────┐
-│                                             │
-│  Informatics Engineering Student            │
-│                                             │
-│  Frontend        ████████████████░░  90%   │
-│  Java / OOP      ███████████████░░░  85%   │
-│  Database        ██████████████░░░░  80%   │
-│  Backend         ████████████░░░░░░  70%   │
-│                                             │
-│  STATUS          LEARNING & BUILDING        │
-│                                             │
-└─────────────────────────────────────────────┘
+┌──────────────────────────────────────────┐
+│                                          │
+│  NAME      Ahmad Fitroh Annur Sholeh     │
+│  ALIAS     Nono                           │
+│  ROLE      Informatics Engineering       │
+│            Student                       │
+│                                          │
+│  FOCUS     Software Development          │
+│  STACK     Frontend / Backend / SQL      │
+│                                          │
+│  STATUS    ● ONLINE                      │
+│                                          │
+└──────────────────────────────────────────┘
 ```
 
 </td>
 
-<td width="42%" valign="top">
+<td width="45%" valign="top">
 
-## `PROFILE`
+## `> PROFILE`
 
-<img src="https://github-readme-stats.vercel.app/api?username=ahmadfas213-cell&show_icons=true&hide_border=true&bg_color=050505&title_color=D4AF37&text_color=E5E5E5&icon_color=D4AF37"/>
+```text
+┌──────────────────────────────┐
+│                              │
+│  FRONTEND                    │
+│  ██████████████████░░  90%   │
+│                              │
+│  JAVA / OOP                  │
+│  █████████████████░░░  85%   │
+│                              │
+│  DATABASE                    │
+│  ████████████████░░░░  80%   │
+│                              │
+│  BACKEND                     │
+│  ██████████████░░░░░░  70%   │
+│                              │
+└──────────────────────────────┘
+```
 
 </td>
 
@@ -69,53 +92,28 @@
 
 <div align="center">
 
-## `01 // THE DEVELOPER`
-
-</div>
-
-<table>
-<tr>
-
-<td width="33%" align="center">
-
-### `01`
-
-### THINK
-
-Understand the problem before writing code.
-
-</td>
-
-<td width="33%" align="center">
-
-### `02`
-
-### BUILD
-
-Turn ideas into working software.
-
-</td>
-
-<td width="33%" align="center">
-
-### `03`
-
-### REFINE
-
-Debug, refactor, improve, repeat.
-
-</td>
-
-</tr>
-</table>
+## `01 // ABOUT`
 
 <br>
 
-<div align="center">
+I'm an Informatics Engineering student interested in software development, web interfaces, backend systems, and database applications.
+
+I learn by building actual projects, breaking things, fixing them, and understanding why they broke.
+
+<br>
 
 ```text
-"GOOD SOFTWARE IS BUILT,
-NOT SUMMONED."
+LEARN
+  ↓
+BUILD
+  ↓
+BREAK
+  ↓
+DEBUG
+  ↓
+REFACTOR
+  ↓
+SHIP
 ```
 
 </div>
@@ -124,7 +122,7 @@ NOT SUMMONED."
 
 <div align="center">
 
-## `02 // STACK`
+## `02 // TECHNOLOGY`
 
 <br>
 
@@ -134,6 +132,8 @@ NOT SUMMONED."
 <td align="center" width="25%">
 
 ### FRONTEND
+
+<br>
 
 <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark"/>
 
@@ -149,6 +149,8 @@ NOT SUMMONED."
 
 ### BACKEND
 
+<br>
+
 <img src="https://skillicons.dev/icons?i=java,nodejs,php&theme=dark"/>
 
 <br><br>
@@ -163,6 +165,8 @@ NOT SUMMONED."
 
 ### DATABASE
 
+<br>
+
 <img src="https://skillicons.dev/icons?i=mysql,firebase&theme=dark"/>
 
 <br><br>
@@ -176,6 +180,8 @@ NOT SUMMONED."
 <td align="center" width="25%">
 
 ### TOOLS
+
+<br>
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,figma&theme=dark"/>
 
@@ -197,9 +203,85 @@ NOT SUMMONED."
 
 <div align="center">
 
-## `03 // SELECTED WORK`
+## `03 // DEVELOPMENT FOCUS`
+
+<br>
+
+<table>
+<tr>
+
+<td width="25%" align="center">
+
+### `01`
+
+<br>
+
+INTERFACE
+
+<br><br>
+
+Responsive UI
+Web Design
+UX
+
+</td>
+
+<td width="25%" align="center">
+
+### `02`
+
+<br>
+
+APPLICATION
+
+<br><br>
+
+Java
+OOP
+CRUD
+
+</td>
+
+<td width="25%" align="center">
+
+### `03`
+
+<br>
+
+DATA
+
+<br><br>
+
+MySQL
+SQL
+Database Design
+
+</td>
+
+<td width="25%" align="center">
+
+### `04`
+
+<br>
+
+BACKEND
+
+<br><br>
+
+API
+Server Logic
+Architecture
+
+</td>
+
+</tr>
+</table>
 
 </div>
+
+---
+
+## `04 // SELECTED PROJECTS`
 
 <table>
 <tr>
@@ -208,16 +290,21 @@ NOT SUMMONED."
 
 ### `SIXFORMATICS`
 
-<img src="https://img.shields.io/badge/WEB_PROJECT-D4AF37?style=flat-square&logo=googlechrome&logoColor=050505"/>
+`WEB / COMMUNITY`
 
 Community-oriented web project for Informatics students.
 
-`HTML` `CSS` `JavaScript`
+```text
+HTML
+CSS
+JavaScript
+Responsive UI
+```
 
-<br><br>
+<br>
 
 <a href="https://sixformatics-hash.github.io/sixformatics/">
-<img src="https://img.shields.io/badge/EXPLORE_PROJECT-050505?style=for-the-badge&logo=googlechrome&logoColor=D4AF37"/>
+<img src="https://img.shields.io/badge/OPEN_PROJECT-38BDF8?style=for-the-badge&logo=googlechrome&logoColor=020617"/>
 </a>
 
 </td>
@@ -226,11 +313,19 @@ Community-oriented web project for Informatics students.
 
 ### `PERGUDANGAN`
 
-<img src="https://img.shields.io/badge/JAVA_APPLICATION-D4AF37?style=flat-square&logo=openjdk&logoColor=050505"/>
+`DESKTOP / DATABASE`
 
-Warehouse management system with stock management, transactions, reports, and dashboard.
+Warehouse management application.
 
-`Java` `OOP` `MySQL` `CRUD`
+```text
+Java
+OOP
+MySQL
+CRUD
+Transactions
+Reports
+Dashboard
+```
 
 </td>
 
@@ -242,11 +337,15 @@ Warehouse management system with stock management, transactions, reports, and da
 
 ### `WEB EXPERIMENTS`
 
-<img src="https://img.shields.io/badge/FRONTEND-292524?style=flat-square&logo=html5&logoColor=D4AF37"/>
+`FRONTEND`
 
 Responsive layouts, interface experiments, animations, and interactive components.
 
-`HTML` `CSS` `JavaScript`
+```text
+HTML
+CSS
+JavaScript
+```
 
 </td>
 
@@ -254,11 +353,15 @@ Responsive layouts, interface experiments, animations, and interactive component
 
 ### `JAVA SYSTEMS`
 
-<img src="https://img.shields.io/badge/BACKEND-292524?style=flat-square&logo=openjdk&logoColor=D4AF37"/>
+`APPLICATION`
 
 Desktop applications focused on OOP, CRUD, controllers, and database integration.
 
-`Java` `Swing` `MySQL`
+```text
+Java
+Swing
+MySQL
+```
 
 </td>
 
@@ -269,58 +372,50 @@ Desktop applications focused on OOP, CRUD, controllers, and database integration
 
 <div align="center">
 
-## `04 // CURRENTLY BUILDING`
+## `05 // CURRENTLY BUILDING`
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2400&pause=700&color=D4AF37&center=true&vCenter=true&width=650&lines=Improving+backend+architecture...;Learning+REST+API...;Building+larger+applications...;Writing+cleaner+code..."/>
+```text
+┌────────────────────────────────────────────────────────────┐
+│                                                            │
+│  BACKEND ARCHITECTURE        ███████████████░░░░░          │
+│  REST API                    █████████████░░░░░░░          │
+│  DATABASE DESIGN             ████████████████░░░░          │
+│  CLEAN CODE                  ███████████████░░░░░          │
+│  SOFTWARE ARCHITECTURE       ███████████░░░░░░░░          │
+│                                                            │
+└────────────────────────────────────────────────────────────┘
+```
 
-<br><br>
+<br>
+
+`Better architecture` · `REST API` · `Database Design` · `Clean Code`
+
+</div>
+
+---
+
+<div align="center">
+
+## `06 // EINSTEIN`
+
+<br>
 
 <table>
 <tr>
 
 <td align="center">
 
-`01`
+### `THINK`
 
 <br>
 
-BETTER
-ARCHITECTURE
-
-</td>
-
-<td align="center">
-
-`02`
+> “The important thing is not to stop questioning.”
 
 <br>
 
-REST
-API
-
-</td>
-
-<td align="center">
-
-`03`
-
-<br>
-
-DATABASE
-DESIGN
-
-</td>
-
-<td align="center">
-
-`04`
-
-<br>
-
-OPEN
-SOURCE
+`— Albert Einstein`
 
 </td>
 
@@ -333,7 +428,65 @@ SOURCE
 
 <div align="center">
 
-## `05 // CONTRIBUTION`
+## `07 // GITHUB OVERVIEW`
+
+<br>
+
+<table>
+<tr>
+
+<td align="center" width="25%">
+
+### `REPOSITORIES`
+
+<br>
+
+<img src="https://img.shields.io/github/repos/ahmadfas213-cell?style=for-the-badge&label=REPOS&color=38BDF8"/>
+
+</td>
+
+<td align="center" width="25%">
+
+### `FOLLOWERS`
+
+<br>
+
+<img src="https://img.shields.io/github/followers/ahmadfas213-cell?style=for-the-badge&label=FOLLOWERS&color=38BDF8"/>
+
+</td>
+
+<td align="center" width="25%">
+
+### `FOLLOWING`
+
+<br>
+
+<img src="https://img.shields.io/github/followers/ahmadfas213-cell?style=for-the-badge&label=FOLLOWING&color=38BDF8"/>
+
+</td>
+
+<td align="center" width="25%">
+
+### `PROFILE`
+
+<br>
+
+<a href="https://github.com/ahmadfas213-cell">
+<img src="https://img.shields.io/badge/OPEN_PROFILE-38BDF8?style=for-the-badge&logo=github&logoColor=020617"/>
+</a>
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+## `08 // CONTRIBUTION MODE`
 
 <br>
 
@@ -341,25 +494,7 @@ SOURCE
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmadfas213-cell&bg_color=050505&color=D4AF37&line=8A641C&point=F5E6B3&area=true&hide_border=true&custom_title=CONTRIBUTION_ACTIVITY"/>
-
-</div>
-
----
-
-<div align="center">
-
-## `06 // GITHUB DATA`
-
-<br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahmadfas213-cell&theme=github_dark"/>
-
-<br><br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ahmadfas213-cell&theme=github_dark"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ahmadfas213-cell&theme=github_dark"/>
+`CONTRIBUTE · BUILD · COMMIT · REPEAT`
 
 </div>
 
@@ -370,43 +505,48 @@ SOURCE
 
 <td width="50%" valign="top">
 
-## `07 // DEVELOPMENT LOG`
+## `09 // SYSTEM LOG`
 
 ```text
-[OK] HTML / CSS
-[OK] JavaScript
-[OK] Java
-[OK] OOP
-[OK] CRUD
-[OK] MySQL
+[ OK ] Frontend initialized
+[ OK ] Java environment loaded
+[ OK ] Database connected
+[ OK ] Git repository detected
 
-[RUN] Backend
-[RUN] REST API
-[RUN] Architecture
+[RUN] Backend development
+[RUN] REST API learning
+[RUN] Architecture research
 
-[TODO] Bigger systems
-[TODO] Open source
+[WARN] Bugs detected
+[WARN] Coffee required
+
+[ OK ] Developer operational
 ```
 
 </td>
 
 <td width="50%" valign="top">
 
-## `08 // SYSTEM STATUS`
+## `10 // ROADMAP`
 
 ```text
-╭─────────────────────────────╮
-│                             │
-│  FRONTEND       ONLINE      │
-│  BACKEND        ONLINE      │
-│  DATABASE       ONLINE      │
-│  GIT            ONLINE      │
-│                             │
-│  COFFEE         REQUIRED    │
-│  BUGS           DETECTED    │
-│  DEBUGGER       RUNNING     │
-│                             │
-╰─────────────────────────────╯
+2025
+ ├─ Programming Fundamentals
+ ├─ HTML / CSS
+ └─ JavaScript
+
+2026
+ ├─ Java
+ ├─ OOP
+ ├─ CRUD
+ ├─ MySQL
+ └─ Java Swing
+
+NEXT
+ ├─ Backend
+ ├─ REST API
+ ├─ Architecture
+ └─ Open Source
 ```
 
 </td>
@@ -418,36 +558,36 @@ SOURCE
 
 <div align="center">
 
-## `09 // SOCIAL TERMINAL`
+## `11 // SOCIAL TERMINAL`
 
 <br>
 
+<a href="https://github.com/ahmadfas213-cell">
+<img src="https://img.shields.io/badge/GITHUB-ahmadfas213--cell-020617?style=for-the-badge&logo=github&logoColor=38BDF8"/>
+</a>
+
+<br><br>
+
 <a href="https://www.instagram.com/ahmdftrhas_/">
-<img src="https://img.shields.io/badge/INSTAGRAM-@ahmdftrhas_-050505?style=for-the-badge&logo=instagram&logoColor=D4AF37"/>
+<img src="https://img.shields.io/badge/INSTAGRAM-@ahmdftrhas_-020617?style=for-the-badge&logo=instagram&logoColor=38BDF8"/>
 </a>
 
 <br><br>
 
 <a href="https://www.facebook.com/Nono0o">
-<img src="https://img.shields.io/badge/FACEBOOK-Nono0o-050505?style=for-the-badge&logo=facebook&logoColor=D4AF37"/>
+<img src="https://img.shields.io/badge/FACEBOOK-Nono0o-020617?style=for-the-badge&logo=facebook&logoColor=38BDF8"/>
 </a>
 
 <br><br>
 
 <a href="https://www.tiktok.com/@nonoo1s">
-<img src="https://img.shields.io/badge/TIKTOK-@nonoo1s-050505?style=for-the-badge&logo=tiktok&logoColor=D4AF37"/>
-</a>
-
-<br><br>
-
-<a href="https://github.com/ahmadfas213-cell">
-<img src="https://img.shields.io/badge/GITHUB-ahmadfas213--cell-050505?style=for-the-badge&logo=github&logoColor=D4AF37"/>
+<img src="https://img.shields.io/badge/TIKTOK-@nonoo1s-020617?style=for-the-badge&logo=tiktok&logoColor=38BDF8"/>
 </a>
 
 <br><br>
 
 <a href="mailto:ahmadfas213@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-ahmadfas213@gmail.com-050505?style=for-the-badge&logo=gmail&logoColor=D4AF37"/>
+<img src="https://img.shields.io/badge/EMAIL-ahmadfas213@gmail.com-020617?style=for-the-badge&logo=gmail&logoColor=38BDF8"/>
 </a>
 
 </div>
@@ -456,9 +596,11 @@ SOURCE
 
 <div align="center">
 
-## `10 // FINAL OUTPUT`
+## `12 // FINAL OUTPUT`
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3200&pause=900&color=D4AF37&center=true&vCenter=true&width=700&lines=Keep+learning.;Keep+building.;Keep+shipping.;Make+the+next+version+better."/>
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=680&lines=Keep+learning.;Keep+building.;Keep+shipping.;Make+the+next+version+better."/>
 
 <br><br>
 
@@ -473,11 +615,11 @@ SOURCE
 <br>
 
 <a href="https://github.com/ahmadfas213-cell">
-<img src="https://img.shields.io/badge/VISIT_GITHUB-D4AF37?style=for-the-badge&logo=github&logoColor=050505"/>
+<img src="https://img.shields.io/badge/VISIT_GITHUB-38BDF8?style=for-the-badge&logo=github&logoColor=020617"/>
 </a>
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&color=0:050505,25:111111,50:292524,72:3F2A14,88:8A641C,100:D4AF37"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:020617,25:0B1120,50:172554,75:1D4ED8,100:38BDF8"/>
 
 </div>
