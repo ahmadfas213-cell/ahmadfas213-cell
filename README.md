@@ -1,192 +1,64 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&section=header&text=AHMAD%20FITROH&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=INFORMATICS%20ENGINEERING%20%7C%20SOFTWARE%20DEVELOPER&descSize=15&descAlignY=58&color=0:050505,35:111827,65:312e81,85:7c3aed,100:06b6d4"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&section=header&text=AHMAD%20FITROH&fontSize=52&fontColor=F5E6B3&fontAlignY=38&desc=SOFTWARE%20DEVELOPER%20%2F%2F%20INFORMATICS%20ENGINEERING&descSize=14&descAlignY=62&color=0:030303,25:0B0B0B,50:171717,72:3F2A14,88:8A641C,100:D4AF37"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2500&pause=800&color=22D3EE&center=true&vCenter=true&width=750&lines=console.log(%22Hello%2C+World!%22);Building+things+that+actually+work.;Java+%7C+Web+%7C+Database;Student+%7C+Developer+%7C+Builder"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2800&pause=900&color=D4AF37&center=true&vCenter=true&width=780&lines=Frontend+%2B+Backend+Developer;Java+%7C+JavaScript+%7C+MySQL;Designing+interfaces.+Building+systems.;LEARN+%E2%86%92+BUILD+%E2%86%92+BREAK+%E2%86%92+IMPROVE"/>
 
 <br><br>
 
 <a href="https://github.com/ahmadfas213-cell">
-<img src="https://img.shields.io/badge/GITHUB-050505?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-050505?style=for-the-badge&logo=github&logoColor=D4AF37"/>
 </a>
-
 <a href="https://www.instagram.com/ahmdftrhas_/">
-<img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<img src="https://img.shields.io/badge/INSTAGRAM-050505?style=for-the-badge&logo=instagram&logoColor=D4AF37"/>
 </a>
-
 <a href="https://www.facebook.com/Nono0o">
-<img src="https://img.shields.io/badge/FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+<img src="https://img.shields.io/badge/FACEBOOK-050505?style=for-the-badge&logo=facebook&logoColor=D4AF37"/>
 </a>
-
 <a href="https://www.tiktok.com/@nonoo1s">
-<img src="https://img.shields.io/badge/TIKTOK-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
+<img src="https://img.shields.io/badge/TIKTOK-050505?style=for-the-badge&logo=tiktok&logoColor=D4AF37"/>
 </a>
-
 <a href="mailto:ahmadfas213@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/EMAIL-050505?style=for-the-badge&logo=gmail&logoColor=D4AF37"/>
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=ahmadfas213-cell&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=ahmadfas213-cell&style=flat-square&color=D4AF37&label=PROFILE+VIEWS"/>
 
 </div>
 
 ---
-
-<div align="center">
-
-## `> WHOAMI`
-
-</div>
-
-```text
-╭────────────────────────────────────────────────────────────╮
-│                                                            │
-│  NAME        : Ahmad Fitroh Annur Sholeh                   │
-│  ALIAS       : Nono                                        │
-│  ROLE        : Informatics Engineering Student             │
-│  FOCUS       : Software Development                        │
-│  STACK       : Java • Web • MySQL                          │
-│  STATUS      : Learning & Building                         │
-│                                                            │
-╰────────────────────────────────────────────────────────────╯
-```
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3500&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=%3E+Initializing+developer...;%3E+Loading+projects...;%3E+Compiling+ideas...;%3E+System+ready."/>
-
-</div>
-
----
-
-<div align="center">
-
-## `01 // ABOUT`
-
-</div>
-
-I'm an Informatics Engineering student interested in building software, experimenting with technology, and learning through real projects.
-
-My current focus is Java, object-oriented programming, web development, databases, and building applications that solve practical problems.
-
-```text
-LEARN → BUILD → BREAK → DEBUG → IMPROVE → REPEAT
-```
-
----
-
-<div align="center">
-
-## `02 // ARSENAL`
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=java,html,css,js,mysql,git,github,vscode,idea&theme=dark&perline=9"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Java-Programming-7C3AED?style=flat-square&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-Database-06B6D4?style=flat-square&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML-Frontend-F97316?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS-Frontend-3B82F6?style=flat-square&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-Frontend-FACC15?style=flat-square&logo=javascript&logoColor=black"/>
-
-</div>
-
----
-
-<div align="center">
-
-## `03 // SELECTED PROJECTS`
-
-</div>
 
 <table>
 <tr>
 
-<td width="50%" valign="top">
+<td width="58%" valign="top">
 
-<h3 align="center">🟣 SIXFORMATICS</h3>
+## `AHMAD / NONO`
 
-<div align="center">
-
-Community-oriented web project for Informatics students.
-
-<br><br>
-
-<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-
-<br><br>
-
-<a href="https://sixformatics-hash.github.io/sixformatics/">
-<img src="https://img.shields.io/badge/OPEN_PROJECT-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-
-</div>
+```text
+┌─────────────────────────────────────────────┐
+│                                             │
+│  Informatics Engineering Student            │
+│                                             │
+│  Frontend        ████████████████░░  90%   │
+│  Java / OOP      ███████████████░░░  85%   │
+│  Database        ██████████████░░░░  80%   │
+│  Backend         ████████████░░░░░░  70%   │
+│                                             │
+│  STATUS          LEARNING & BUILDING        │
+│                                             │
+└─────────────────────────────────────────────┘
+```
 
 </td>
 
-<td width="50%" valign="top">
+<td width="42%" valign="top">
 
-<h3 align="center">🔵 PERGUDANGAN</h3>
+## `PROFILE`
 
-<div align="center">
-
-Warehouse management system.
-
-<br><br>
-
-CRUD • Stock Management • Transactions • Reports • Dashboard
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Java-7C3AED?style=flat-square&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-06B6D4?style=flat-square&logo=mysql&logoColor=white"/>
-
-</div>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-<h3 align="center">🌐 WEB PROJECTS</h3>
-
-<div align="center">
-
-Web experiments and portfolio projects focused on frontend development, responsive layouts, and interactive interfaces.
-
-<br><br>
-
-<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-
-</div>
-
-</td>
-
-<td width="50%" valign="top">
-
-<h3 align="center">☕ JAVA PROJECTS</h3>
-
-<div align="center">
-
-Desktop applications focused on OOP, CRUD, database connectivity, and practical software development.
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=ahmadfas213-cell&show_icons=true&hide_border=true&bg_color=050505&title_color=D4AF37&text_color=E5E5E5&icon_color=D4AF37"/>
 
 </td>
 
@@ -197,9 +69,271 @@ Desktop applications focused on OOP, CRUD, database connectivity, and practical 
 
 <div align="center">
 
-## `04 // CONTRIBUTION MODE`
+## `01 // THE DEVELOPER`
 
-### 🐍 SNAKE ATTACK
+</div>
+
+<table>
+<tr>
+
+<td width="33%" align="center">
+
+### `01`
+
+### THINK
+
+Understand the problem before writing code.
+
+</td>
+
+<td width="33%" align="center">
+
+### `02`
+
+### BUILD
+
+Turn ideas into working software.
+
+</td>
+
+<td width="33%" align="center">
+
+### `03`
+
+### REFINE
+
+Debug, refactor, improve, repeat.
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<div align="center">
+
+```text
+"GOOD SOFTWARE IS BUILT,
+NOT SUMMONED."
+```
+
+</div>
+
+---
+
+<div align="center">
+
+## `02 // STACK`
+
+<br>
+
+<table>
+<tr>
+
+<td align="center" width="25%">
+
+### FRONTEND
+
+<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark"/>
+
+<br><br>
+
+`HTML5`
+`CSS3`
+`JavaScript`
+
+</td>
+
+<td align="center" width="25%">
+
+### BACKEND
+
+<img src="https://skillicons.dev/icons?i=java,nodejs,php&theme=dark"/>
+
+<br><br>
+
+`Java`
+`Node.js`
+`PHP`
+
+</td>
+
+<td align="center" width="25%">
+
+### DATABASE
+
+<img src="https://skillicons.dev/icons?i=mysql,firebase&theme=dark"/>
+
+<br><br>
+
+`MySQL`
+`Firebase`
+`SQL`
+
+</td>
+
+<td align="center" width="25%">
+
+### TOOLS
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,figma&theme=dark"/>
+
+<br><br>
+
+`Git`
+`GitHub`
+`VS Code`
+`Figma`
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+## `03 // SELECTED WORK`
+
+</div>
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### `SIXFORMATICS`
+
+<img src="https://img.shields.io/badge/WEB_PROJECT-D4AF37?style=flat-square&logo=googlechrome&logoColor=050505"/>
+
+Community-oriented web project for Informatics students.
+
+`HTML` `CSS` `JavaScript`
+
+<br><br>
+
+<a href="https://sixformatics-hash.github.io/sixformatics/">
+<img src="https://img.shields.io/badge/EXPLORE_PROJECT-050505?style=for-the-badge&logo=googlechrome&logoColor=D4AF37"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### `PERGUDANGAN`
+
+<img src="https://img.shields.io/badge/JAVA_APPLICATION-D4AF37?style=flat-square&logo=openjdk&logoColor=050505"/>
+
+Warehouse management system with stock management, transactions, reports, and dashboard.
+
+`Java` `OOP` `MySQL` `CRUD`
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### `WEB EXPERIMENTS`
+
+<img src="https://img.shields.io/badge/FRONTEND-292524?style=flat-square&logo=html5&logoColor=D4AF37"/>
+
+Responsive layouts, interface experiments, animations, and interactive components.
+
+`HTML` `CSS` `JavaScript`
+
+</td>
+
+<td width="50%" valign="top">
+
+### `JAVA SYSTEMS`
+
+<img src="https://img.shields.io/badge/BACKEND-292524?style=flat-square&logo=openjdk&logoColor=D4AF37"/>
+
+Desktop applications focused on OOP, CRUD, controllers, and database integration.
+
+`Java` `Swing` `MySQL`
+
+</td>
+
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## `04 // CURRENTLY BUILDING`
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2400&pause=700&color=D4AF37&center=true&vCenter=true&width=650&lines=Improving+backend+architecture...;Learning+REST+API...;Building+larger+applications...;Writing+cleaner+code..."/>
+
+<br><br>
+
+<table>
+<tr>
+
+<td align="center">
+
+`01`
+
+<br>
+
+BETTER
+ARCHITECTURE
+
+</td>
+
+<td align="center">
+
+`02`
+
+<br>
+
+REST
+API
+
+</td>
+
+<td align="center">
+
+`03`
+
+<br>
+
+DATABASE
+DESIGN
+
+</td>
+
+<td align="center">
+
+`04`
+
+<br>
+
+OPEN
+SOURCE
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+## `05 // CONTRIBUTION`
 
 <br>
 
@@ -207,7 +341,7 @@ Desktop applications focused on OOP, CRUD, database connectivity, and practical 
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmadfas213-cell&bg_color=050505&color=A78BFA&line=7C3AED&point=22D3EE&area=true&hide_border=true&custom_title=NONO%27S%20CONTRIBUTION%20GRAPH"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmadfas213-cell&bg_color=050505&color=D4AF37&line=8A641C&point=F5E6B3&area=true&hide_border=true&custom_title=CONTRIBUTION_ACTIVITY"/>
 
 </div>
 
@@ -215,23 +349,106 @@ Desktop applications focused on OOP, CRUD, database connectivity, and practical 
 
 <div align="center">
 
-## `05 // GITHUB ACTIVITY`
+## `06 // GITHUB DATA`
 
 <br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahmadfas213-cell&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahmadfas213-cell&theme=github_dark"/>
 
 <br><br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ahmadfas213-cell&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ahmadfas213-cell&theme=github_dark"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ahmadfas213-cell&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ahmadfas213-cell&theme=github_dark"/>
+
+</div>
+
+---
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+## `07 // DEVELOPMENT LOG`
+
+```text
+[OK] HTML / CSS
+[OK] JavaScript
+[OK] Java
+[OK] OOP
+[OK] CRUD
+[OK] MySQL
+
+[RUN] Backend
+[RUN] REST API
+[RUN] Architecture
+
+[TODO] Bigger systems
+[TODO] Open source
+```
+
+</td>
+
+<td width="50%" valign="top">
+
+## `08 // SYSTEM STATUS`
+
+```text
+╭─────────────────────────────╮
+│                             │
+│  FRONTEND       ONLINE      │
+│  BACKEND        ONLINE      │
+│  DATABASE       ONLINE      │
+│  GIT            ONLINE      │
+│                             │
+│  COFFEE         REQUIRED    │
+│  BUGS           DETECTED    │
+│  DEBUGGER       RUNNING     │
+│                             │
+╰─────────────────────────────╯
+```
+
+</td>
+
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## `09 // SOCIAL TERMINAL`
+
+<br>
+
+<a href="https://www.instagram.com/ahmdftrhas_/">
+<img src="https://img.shields.io/badge/INSTAGRAM-@ahmdftrhas_-050505?style=for-the-badge&logo=instagram&logoColor=D4AF37"/>
+</a>
 
 <br><br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ahmadfas213-cell&theme=tokyonight"/>
+<a href="https://www.facebook.com/Nono0o">
+<img src="https://img.shields.io/badge/FACEBOOK-Nono0o-050505?style=for-the-badge&logo=facebook&logoColor=D4AF37"/>
+</a>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ahmadfas213-cell&theme=tokyonight&utcOffset=7"/>
+<br><br>
+
+<a href="https://www.tiktok.com/@nonoo1s">
+<img src="https://img.shields.io/badge/TIKTOK-@nonoo1s-050505?style=for-the-badge&logo=tiktok&logoColor=D4AF37"/>
+</a>
+
+<br><br>
+
+<a href="https://github.com/ahmadfas213-cell">
+<img src="https://img.shields.io/badge/GITHUB-ahmadfas213--cell-050505?style=for-the-badge&logo=github&logoColor=D4AF37"/>
+</a>
+
+<br><br>
+
+<a href="mailto:ahmadfas213@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-ahmadfas213@gmail.com-050505?style=for-the-badge&logo=gmail&logoColor=D4AF37"/>
+</a>
 
 </div>
 
@@ -239,77 +456,28 @@ Desktop applications focused on OOP, CRUD, database connectivity, and practical 
 
 <div align="center">
 
-## `06 // CURRENT STATUS`
+## `10 // FINAL OUTPUT`
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3200&pause=900&color=D4AF37&center=true&vCenter=true&width=700&lines=Keep+learning.;Keep+building.;Keep+shipping.;Make+the+next+version+better."/>
+
+<br><br>
 
 ```text
-╭────────────────────────────────────────────────────╮
-│                                                    │
-│  [✓] Java & OOP                                   │
-│  [✓] CRUD Development                              │
-│  [✓] MySQL & Database                              │
-│  [✓] HTML / CSS / JavaScript                       │
-│  [→] Better Software Architecture                  │
-│  [→] Larger Applications                           │
-│  [→] Open Source                                   │
-│                                                    │
-╰────────────────────────────────────────────────────╯
+╔══════════════════════════════════════════════════════════╗
+║                                                          ║
+║             BUILD SOMETHING WORTH REMEMBERING.           ║
+║                                                          ║
+╚══════════════════════════════════════════════════════════╝
 ```
-
-</div>
-
----
-
-<div align="center">
-
-## `07 // SYSTEM LOG`
-
-```text
-[INFO] Developer profile loaded.
-[INFO] Java environment initialized.
-[INFO] Database connected.
-[INFO] Projects detected.
-[INFO] Coffee level: sufficient.
-[INFO] Bugs detected: obviously.
-[INFO] Debugging...
-[OK] System operational.
-```
-
-</div>
-
----
-
-<div align="center">
-
-## `08 // CONNECT`
 
 <br>
 
 <a href="https://github.com/ahmadfas213-cell">
-<img src="https://img.shields.io/badge/GitHub-050505?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.instagram.com/ahmdftrhas_/">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="https://www.facebook.com/Nono0o">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-</a>
-
-<a href="https://www.tiktok.com/@nonoo1s">
-<img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
-</a>
-
-<a href="mailto:ahmadfas213@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/VISIT_GITHUB-D4AF37?style=for-the-badge&logo=github&logoColor=050505"/>
 </a>
 
 <br><br>
 
-`BUILD SOMETHING WORTH REMEMBERING.`
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:06B6D4,35:7C3AED,70:312E81,100:050505"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&color=0:050505,25:111111,50:292524,72:3F2A14,88:8A641C,100:D4AF37"/>
 
 </div>
