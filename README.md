@@ -14,6 +14,10 @@
 <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
+<a href="https://www.facebook.com/Nono0o">
+<img src="https://img.shields.io/badge/FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+
 <a href="https://www.tiktok.com/@nonoo1s">
 <img src="https://img.shields.io/badge/TIKTOK-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
 </a>
@@ -201,33 +205,7 @@ Desktop applications focused on OOP, CRUD, database connectivity, and practical 
 
 <img src="https://raw.githubusercontent.com/ahmadfas213-cell/ahmadfas213-cell/main/dist/github-contribution-grid-snake-dark.svg"/>
 
-</div>
-
----
-
-<div align="center">
-
-## `05 // GITHUB STATS`
-
-<br>
-
-<img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ahmadfas213-cell&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-
-<img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=ahmadfas213-cell&layout=compact&theme=tokyonight&hide_border=true"/>
-
 <br><br>
-
-<img src="https://streak-stats.demolab.com?user=ahmadfas213-cell&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-<div align="center">
-
-## `06 // ACTIVITY`
-
-<br>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmadfas213-cell&bg_color=050505&color=A78BFA&line=7C3AED&point=22D3EE&area=true&hide_border=true&custom_title=NONO%27S%20CONTRIBUTION%20GRAPH"/>
 
@@ -237,7 +215,31 @@ Desktop applications focused on OOP, CRUD, database connectivity, and practical 
 
 <div align="center">
 
-## `07 // CURRENT STATUS`
+## `05 // GITHUB ACTIVITY`
+
+<br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahmadfas213-cell&theme=tokyonight"/>
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ahmadfas213-cell&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ahmadfas213-cell&theme=tokyonight"/>
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ahmadfas213-cell&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ahmadfas213-cell&theme=tokyonight&utcOffset=7"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## `06 // CURRENT STATUS`
 
 ```text
 ╭────────────────────────────────────────────────────╮
@@ -259,7 +261,7 @@ Desktop applications focused on OOP, CRUD, database connectivity, and practical 
 
 <div align="center">
 
-## `08 // SYSTEM LOG`
+## `07 // SYSTEM LOG`
 
 ```text
 [INFO] Developer profile loaded.
@@ -278,18 +280,7 @@ Desktop applications focused on OOP, CRUD, database connectivity, and practical 
 
 <div align="center">
 
-## `09 // DEV QUOTE`
-
-<br>
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-
-</div>
-
----
-<div align="center">
-
-## `10 // CONNECT`
+## `08 // CONNECT`
 
 <br>
 
@@ -301,16 +292,16 @@ Desktop applications focused on OOP, CRUD, database connectivity, and practical 
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
+<a href="https://www.facebook.com/Nono0o">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+
 <a href="https://www.tiktok.com/@nonoo1s">
 <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
 </a>
 
 <a href="mailto:ahmadfas213@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://facebook.com/Nono0o">
-<img src="https://img.shields.io/badge/FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
 </a>
 
 <br><br>
