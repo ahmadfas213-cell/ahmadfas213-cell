@@ -288,44 +288,51 @@ Architecture
 
 <td width="50%" valign="top">
 
-### `SIXFORMATICS`
+### `GITHUB DEVELOPER INTELLIGENCE`
 
-`WEB / COMMUNITY`
+`WEB / DEVELOPER TOOLS`
 
-Community-oriented web project for Informatics students.
+Developer intelligence platform focused on GitHub repositories, developer activity, and project analytics.
 
 ```text
 HTML
 CSS
 JavaScript
-Responsive UI
+GitHub API
+Analytics
+Dashboard
 ```
 
 <br>
 
-<a href="https://sixformatics-hash.github.io/sixformatics/">
-<img src="https://img.shields.io/badge/OPEN_PROJECT-38BDF8?style=for-the-badge&logo=googlechrome&logoColor=020617"/>
+<a href="https://github.com/ahmadfas213-cell/GITHUB-DEVELOPER-INTELLIGENCE">
+<img src="https://img.shields.io/badge/OPEN_PROJECT-38BDF8?style=for-the-badge&logo=github&logoColor=020617"/>
 </a>
 
 </td>
 
 <td width="50%" valign="top">
 
-### `PERGUDANGAN`
+### `AI RESUME ANALYZER`
 
-`DESKTOP / DATABASE`
+`WEB / AI`
 
-Warehouse management application.
+AI-powered web application for analyzing resume information and processing CV data.
 
 ```text
-Java
-OOP
-MySQL
-CRUD
-Transactions
-Reports
-Dashboard
+HTML
+CSS
+JavaScript
+AI
+Resume Analysis
+Web Application
 ```
+
+<br>
+
+<a href="https://github.com/ahmadfas213-cell/AI-RESUME-ANALYZER">
+<img src="https://img.shields.io/badge/OPEN_PROJECT-38BDF8?style=for-the-badge&logo=github&logoColor=020617"/>
+</a>
 
 </td>
 
@@ -335,37 +342,213 @@ Dashboard
 
 <td width="50%" valign="top">
 
-### `WEB EXPERIMENTS`
+### `API STATUS MONITOR`
 
-`FRONTEND`
+`WEB / MONITORING`
 
-Responsive layouts, interface experiments, animations, and interactive components.
+Web-based monitoring application for checking API availability, response status, and service conditions.
 
 ```text
 HTML
 CSS
 JavaScript
+REST API
+Monitoring
+Dashboard
 ```
+
+<br>
+
+<a href="https://github.com/ahmadfas213-cell/API-STATUS-MONITOR">
+<img src="https://img.shields.io/badge/OPEN_PROJECT-38BDF8?style=for-the-badge&logo=github&logoColor=020617"/>
+</a>
 
 </td>
 
 <td width="50%" valign="top">
 
-### `JAVA SYSTEMS`
+### `CYBERSECURITY DASHBOARD`
 
-`APPLICATION`
+`WEB / SECURITY`
 
-Desktop applications focused on OOP, CRUD, controllers, and database integration.
+Interactive dashboard project focused on cybersecurity information and security-related data.
 
 ```text
-Java
-Swing
-MySQL
+HTML
+CSS
+JavaScript
+Cybersecurity
+Dashboard
+Data Visualization
 ```
+
+<br>
+
+<a href="https://github.com/ahmadfas213-cell/cybersecurity-dashboard">
+<img src="https://img.shields.io/badge/OPEN_PROJECT-38BDF8?style=for-the-badge&logo=github&logoColor=020617"/>
+</a>
 
 </td>
 
 </tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### `INITIAL SQL QUERY ANALYZER`
+
+`DATABASE / SQL`
+
+Database project focused on SQL queries, query analysis, and database operations.
+
+```text
+SQL
+MySQL
+Database
+Query Analysis
+```
+
+<br>
+
+<a href="https://github.com/ahmadfas213-cell/Initial-SQL-Query-Analyzer">
+<img src="https://img.shields.io/badge/OPEN_PROJECT-38BDF8?style=for-the-badge&logo=github&logoColor=020617"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### `SOFTWARE ENGINEERING OBSERVATORY`
+
+`WEB / ANALYTICS`
+
+Software engineering analytics project focused on observing development activity, workflows, and project metrics.
+
+```text
+HTML
+CSS
+JavaScript
+Analytics
+Dashboard
+```
+
+<br>
+
+<a href="https://github.com/ahmadfas213-cell/Initial-Software-Engineering-Observatory">
+<img src="https://img.shields.io/badge/OPEN_PROJECT-38BDF8?style=for-the-badge&logo=github&logoColor=020617"/>
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### `LOG INTELLIGENCE PLATFORM`
+
+`WEB / SYSTEM MONITORING`
+
+Log analysis platform for inspecting application activity and extracting useful system information.
+
+```text
+HTML
+CSS
+JavaScript
+Log Analysis
+Monitoring
+Dashboard
+```
+
+<br>
+
+<a href="https://github.com/ahmadfas213-cell/Initial-Log-Intelligence-Platform">
+<img src="https://img.shields.io/badge/OPEN_PROJECT-38BDF8?style=for-the-badge&logo=github&logoColor=020617"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### `WEBHOOK EVENT SIMULATOR`
+
+`WEB / DEVELOPER TOOLS`
+
+Webhook simulation platform for generating events, testing delivery, and inspecting webhook responses.
+
+```text
+HTML
+CSS
+JavaScript
+Webhook
+API
+Testing
+```
+
+<br>
+
+<a href="https://github.com/ahmadfas213-cell/webhook-event-simulator">
+<img src="https://img.shields.io/badge/OPEN_PROJECT-38BDF8?style=for-the-badge&logo=github&logoColor=020617"/>
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### `WEATHERLY`
+
+`WEB / WEATHER`
+
+Weather web application for displaying weather information through a responsive interface.
+
+```text
+HTML
+CSS
+JavaScript
+Weather API
+Responsive UI
+```
+
+<br>
+
+<a href="https://github.com/ahmadfas213-cell/Weatherly">
+<img src="https://img.shields.io/badge/OPEN_PROJECT-38BDF8?style=for-the-badge&logo=github&logoColor=020617"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### `TASKLY`
+
+`WEB / PRODUCTIVITY`
+
+Task management web application for organizing and managing daily tasks.
+
+```text
+HTML
+CSS
+JavaScript
+Task Management
+Responsive UI
+```
+
+<br>
+
+<a href="https://github.com/ahmadfas213-cell/Taskly">
+<img src="https://img.shields.io/badge/OPEN_PROJECT-38BDF8?style=for-the-badge&logo=github&logoColor=020617"/>
+</a>
+
+</td>
+
+</tr>
+
 </table>
 
 ---
