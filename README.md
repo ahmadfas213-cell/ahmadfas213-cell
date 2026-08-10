@@ -419,34 +419,6 @@ Query Analysis
 
 <td width="50%" valign="top">
 
-### `SOFTWARE ENGINEERING OBSERVATORY`
-
-`WEB / ANALYTICS`
-
-Software engineering analytics project focused on observing development activity, workflows, and project metrics.
-
-```text
-HTML
-CSS
-JavaScript
-Analytics
-Dashboard
-```
-
-<br>
-
-<a href="https://github.com/ahmadfas213-cell/Initial-Software-Engineering-Observatory">
-<img src="https://img.shields.io/badge/OPEN_PROJECT-38BDF8?style=for-the-badge&logo=github&logoColor=020617"/>
-</a>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
 ### `LOG INTELLIGENCE PLATFORM`
 
 `WEB / SYSTEM MONITORING`
@@ -469,6 +441,10 @@ Dashboard
 </a>
 
 </td>
+
+</tr>
+
+<tr>
 
 <td width="50%" valign="top">
 
@@ -495,10 +471,6 @@ Testing
 
 </td>
 
-</tr>
-
-<tr>
-
 <td width="50%" valign="top">
 
 ### `WEATHERLY`
@@ -523,6 +495,10 @@ Responsive UI
 
 </td>
 
+</tr>
+
+<tr>
+
 <td width="50%" valign="top">
 
 ### `TASKLY`
@@ -542,6 +518,30 @@ Responsive UI
 <br>
 
 <a href="https://github.com/ahmadfas213-cell/Taskly">
+<img src="https://img.shields.io/badge/OPEN_PROJECT-38BDF8?style=for-the-badge&logo=github&logoColor=020617"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### `SIXFORMATICS`
+
+`WEB / COMMUNITY`
+
+Community-oriented web project for Informatics students.
+
+```text
+HTML
+CSS
+JavaScript
+Responsive UI
+Community
+```
+
+<br>
+
+<a href="https://github.com/ahmadfas213-cell/sixformatics">
 <img src="https://img.shields.io/badge/OPEN_PROJECT-38BDF8?style=for-the-badge&logo=github&logoColor=020617"/>
 </a>
 
