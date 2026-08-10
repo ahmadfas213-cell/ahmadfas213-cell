@@ -549,6 +549,39 @@ Community
 
 </tr>
 
+<tr>
+
+<td width="50%" valign="top">
+
+### `SOFTWARE OPERATIONS PLATFORM`
+
+`WEB / SOFTWARE OPERATIONS`
+
+Centralized software operations platform for managing projects, system logs, monitoring data, and developer utilities through a single web interface.
+
+```text
+Node.js
+Express.js
+MySQL
+REST API
+Railway
+PWA
+```
+
+<br>
+
+<a href="https://github.com/ahmadfas213-cell/Software-Operations-Platform">
+<img src="https://img.shields.io/badge/OPEN_PROJECT-38BDF8?style=for-the-badge&logo=github&logoColor=020617"/>
+</a>
+
+<a href="https://software-operations-platform-production.up.railway.app/">
+<img src="https://img.shields.io/badge/LIVE_DEMO-38BDF8?style=for-the-badge&logo=railway&logoColor=020617"/>
+</a>
+
+</td>
+
+</tr>
+
 </table>
 
 ---
